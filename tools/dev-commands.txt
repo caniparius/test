@@ -1,0 +1,21 @@
+md tools
+cd tools
+
+wget http://www.pirbot.com/mirrors/apache/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip
+
+wget http://downloads.sourceforge.net/project/getgnuwin32/getgnuwin32/0.6.30/GetGnuWin32-0.6.3.exe
+
+wget http://downloads.sourceforge.net/project/gnuwin32/coreutils/5.3.0/coreutils-5.3.0-bin.zip
+
+wget http://download.springsource.com/release/ECLIPSE/mars/2/eclipse-jee-mars-2-win32-x86_64.zip
+
+wget http://archive.apache.org/dist/tomcat/tomcat-7/v7.0.57/bin/apache-tomcat-7.0.57-windows-i64.zip
+
+wget http://mirror.easyname.ch/apache//ant/binaries/apache-ant-1.9.7-bin.zip
+
+wget http://download.oracle.com/otn-pub/java/jdk/8u91-b15/jdk-8u91-windows-x64.exe --header "Cookie: oraclelicense=accept-securebackup-cookie"
+
+set path=%path%;c:\users\Sepp\Documents\dev\gnu\GetGnuWin32\bin;C:\Users\Sepp\Documents\dev\gnu\bin\;C:\Users\Sepp\Documents\dev\wget;
+
+
+
